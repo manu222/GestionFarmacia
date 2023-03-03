@@ -1,0 +1,4 @@
+Paco,21,Empleado,paco@farmacia.com,1200.0,40,4.0,1
+Manuel,21,empleado,fede@farmacia.com,160.0,40,4.0,2
+Pedro,21,Empleado,paco@farmacia.com,1200.0,40,4.0,3
+Federico,21,empleado,fede@farmacia.com,160.0,40,4.0,4
