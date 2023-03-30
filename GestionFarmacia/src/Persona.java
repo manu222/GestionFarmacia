@@ -1,21 +1,10 @@
-public class Persona {
-    String nombre;
-    int edad;
-    String type;
 
+public interface Persona {
+    String getNombre(String name);
 
-    public Persona(String nombre, int edad,String type ){
-        this.nombre=nombre;
-        this.edad=edad;
-        this.type=type;
-    }
-
-
-    public String toString() {
-        return "Persona{" +
-                "nombre='" + nombre + '\'' +
-                ", edad=" + edad +
-                ", type=" + type +
-                '}';
-    }
+    public String getNombre();
+    public int getEdad();
+    public void setNombre(String nombre);
+    public void setEdad(int edad);
 }
+
